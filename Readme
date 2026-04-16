@@ -7,3 +7,12 @@ What is Git?
 1. Configuration Commands
 CMD: git config --global user.name "username"
 CDM: git config --global user.email "useremail@gmail.com"
+
+---------------------------------------------------------------------------
+
+2. Git Initialization
+CMD-1: git init
+CMD-2: git init <directoryName>
+CMD-3: git init --initial-branch=branchName
+EX: git init --initial-branch=main
+-> Initializes a new Git Repository in the current directory (folder)
