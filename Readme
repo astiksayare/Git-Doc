@@ -1,3 +1,9 @@
 What is Git?
 -> Git is a distributed version control software system that is capable of managing 
    version of source code or data.
+
+----------- Git Commands ----------
+
+1. Configuration Commands
+CMD: git config --global user.name "username"
+CDM: git config --global user.email "useremail@gmail.com"
