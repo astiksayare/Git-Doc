@@ -26,3 +26,12 @@ CMD-1: git add <file-name>
 CMD-2: git add .
 CMD-3: git add --all
 -> Adds all modified and new files to the staging area.
+
+---------------------------------------------------------------------------
+
+4. Git Status
+CMD-1: git status
+CMD-2: git status -v
+CMD-3: git status -s
+-> Shows current state of your Repository, including tracked and untracked files, modified files, and branch information.
+
