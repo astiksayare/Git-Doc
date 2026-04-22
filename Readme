@@ -35,3 +35,11 @@ CMD-2: git status -v
 CMD-3: git status -s
 -> Shows current state of your Repository, including tracked and untracked files, modified files, and branch information.
 
+---------------------------------------------------------------------------
+
+5. Git Commit
+CMD-1: git commit
+-> Make commit and open text editor to write message.
+
+CMD-2: git commit -m 'commit message'
+-> Create a new commit in a Git Repository with a specific message. '-m' stands for message.
