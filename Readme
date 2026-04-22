@@ -16,3 +16,13 @@ CMD-2: git init <directoryName>
 CMD-3: git init --initial-branch=branchName
 EX: git init --initial-branch=main
 -> Initializes a new Git Repository in the current directory (folder)
+
+---------------------------------------------------------------------------
+
+3. Adding files to staging area
+CMD-1: git add <file-name>
+-> Adds a specific file to the staging area
+
+CMD-2: git add .
+CMD-3: git add --all
+-> Adds all modified and new files to the staging area.
